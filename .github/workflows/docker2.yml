@@ -27,6 +27,6 @@ jobs:
         id: vars
         run: echo ::set-output name=tag::$(echo ${GITHUB_REF:10})
       - name: Build the tagged Docker image
-        run: docker build -t bankingapp/clarkfinancial .
+        run: docker build -t samclark1999/clarkfinancial .
       - name: Push the tagged Docker image
-        run: docker push bankingapp/clarkfinancial
+        run: docker push samclark1999/clarkfinancial
