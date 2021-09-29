@@ -10,9 +10,9 @@
   "author": "samclarkwork99@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
     "lowdb": "^1.0.0",
-    "mongodb": "^3.6.2"
+    "mongodb": "^4.1.2"
   }
 }
