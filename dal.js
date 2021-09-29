@@ -10,6 +10,7 @@ MongoClient.connect(url, {useUnifiedTopology: true}, function(err, client) {
     db = client.db('myproject');
 });
 
+
 // create a user account in database
 function create(name, email, password, balance){
     return new Promise((resolve, reject) => {    
