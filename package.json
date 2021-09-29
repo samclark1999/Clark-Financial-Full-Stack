@@ -4,9 +4,10 @@
   "description": "lowdb sample for 1.125",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
   },
-  "author": "abel@mit.edu",
+  "author": "samclarkwork99@gmail.com",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.4",
