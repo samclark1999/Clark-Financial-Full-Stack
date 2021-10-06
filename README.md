@@ -34,8 +34,10 @@ Clark financial is a full-stack banking application. Allows the user to create a
   <br>
     <img src="mongo.png" height="75px" width="700px" margin-left="50px">
   </br>
+  
 4. Run the Node server
    ```sh
    node index.js
    ```
+   
 5. Navigate to [http://localhost:3000/](http://localhost:3000/) to run the application
