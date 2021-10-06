@@ -31,9 +31,11 @@ Clark financial is a full-stack banking application. Allows the user to create a
    npm install
    ```
 3. Change const url to following local MongoDB port 27017
-    <img src="mongo.png" height="100px" width="300px">
-5. Run the Node server
+  <br>
+    <img src="mongo.png" height="150px" width="500px">
+  </br>
+4. Run the Node server
    ```sh
    node index.js
    ```
-4. Navigate to [http://localhost:3000/](http://localhost:3000/) to run the application
+5. Navigate to [http://localhost:3000/](http://localhost:3000/) to run the application
