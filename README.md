@@ -14,6 +14,7 @@ Clark financial is a full-stack banking application. Allows the user to create a
 * [Docker](https://www.docker.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [Bootstrap](https://getbootstrap.com/)
+* [GoogleCloud](https://cloud.google.com/)
 
 ## How to Run
 ### Prereq
@@ -43,4 +44,5 @@ Clark financial is a full-stack banking application. Allows the user to create a
 5. Navigate to [http://localhost:3000/](http://localhost:3000/) to run the application
 
 ### Deployed App Link
+This app was deployed using Google Cloud. Follow link below
 <a href="https://clark-fyo4ifr6hq-uw.a.run.app">Clark financial Link</a>
