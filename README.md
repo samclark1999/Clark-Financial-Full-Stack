@@ -52,7 +52,15 @@ This app was deployed using Google Cloud. Follow link below
 <br>
 
 ## Usage
-#### This app has the functionality to create account, login, deposit, withdraw, see balance, and see useer data. Below are two examples I wanted to highlight: create account and see balance.
-Create Account
+#### This app has the functionality to create account, login, deposit, withdraw, see balance, and see useer data. 
+#### Below are two examples I wanted to highlight: create account and see balance.
+### Create Account
 
 https://user-images.githubusercontent.com/76974292/136283192-0d90e253-440c-42d3-a41d-87a204deeade.mp4
+
+### See Balance
+
+
+https://user-images.githubusercontent.com/76974292/136284223-d130604d-2931-4fae-b6af-d2d66f512b77.mp4
+
+
