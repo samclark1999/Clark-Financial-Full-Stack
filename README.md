@@ -32,7 +32,7 @@ Clark financial is a full-stack banking application. Allows the user to create a
    ```
 3. Change const url to following local MongoDB port 27017
   <br>
-    <img src="mongo.png" height="150px" width="500px">
+    <img src="mongo.png" height="75px" width="700px">
   </br>
 4. Run the Node server
    ```sh
