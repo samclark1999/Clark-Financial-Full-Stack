@@ -44,11 +44,13 @@ Clark financial is a full-stack banking application. Allows the user to create a
    
 5. Navigate to [http://localhost:3000/](http://localhost:3000/) to run the application
 <br>
+
 ### Deployed App Link
 This app was deployed using Google Cloud. Follow link below
 <br>
 <a href="https://clark-fyo4ifr6hq-uw.a.run.app">Clark financial Link</a>
 <br>
+
 ## Usage
 Create Account
 <video src="create.mp4" height="200px" width="300px">
