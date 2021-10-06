@@ -89,5 +89,5 @@ My LinkedIn - https://www.linkedin.com/in/samclark99/ <br>
 My Github - https://github.com/samclark1999/
 
 ## Acknowledgements
-<a href="https://github.com/othneildrew/Best-README-Template">
+https://github.com/othneildrew/Best-README-Template
 
