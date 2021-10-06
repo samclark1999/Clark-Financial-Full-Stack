@@ -30,9 +30,9 @@ Clark financial is a full-stack banking application. Allows the user to create a
    ```sh
    npm install
    ```
-3. Change const url to following local MongoDB port 27017
+3. Change const url to following url string "" in the dal.js file
   <br>
-    <img src="mongo.png" height="75px" width="700px">
+    <img src="mongo.png" height="75px" width="700px" left="50px">
   </br>
 4. Run the Node server
    ```sh
