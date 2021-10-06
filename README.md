@@ -5,6 +5,31 @@
 </div>
 <br>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#About">About</a>
+      <ul>
+        <li><a href="#Technologies">Technologies</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#How-to-Run">How to Run</a>
+      <ul>
+        <li><a href="#locally">Locally</a></li>
+        <li><a href="#Deployed-App-Link">Deployed App Link</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 ## About
 Clark financial is a full-stack banking application. Allows the user to create account, login, and keep track of deposits and withdraws. It has capability to store data of each user and retrieve that data on login. Clark Financial is a project that is ongoing and was the capstone project for my coursework at MIT x Pro. 
 
