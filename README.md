@@ -18,7 +18,7 @@
     <li>
       <a href="#How-to-Run">How to Run</a>
       <ul>
-        <li><a href="###Locally">Locally</a></li>
+        <li><a href="#Locally">Locally</a></li>
         <li><a href="#Deployed-App-Link">Deployed App Link</a></li>
       </ul>
     </li>
@@ -48,6 +48,7 @@ Clark financial is a full-stack banking application. Allows the user to create a
   npm install npm@latest -g
   ```
 <br>
+
 ### Locally
 1. Clone the repo
    ```sh
