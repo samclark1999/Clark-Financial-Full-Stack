@@ -32,7 +32,7 @@ Clark financial is a full-stack banking application. Allows the user to create a
    ```
 3. Change const url to following url string "" in the dal.js file
   <br>
-    <img src="mongo.png" height="75px" width="700px" left="50px">
+    <img src="mongo.png" height="75px" width="700px" margin-left="50px">
   </br>
 4. Run the Node server
    ```sh
