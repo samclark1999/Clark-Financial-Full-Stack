@@ -19,7 +19,6 @@
       <a href="#How-to-Run">How to Run</a>
       <ul>
         <li><a href="#Locally">Locally</a></li>
-        <li><a href="#Deployed-App-Link">Deployed App Link</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
