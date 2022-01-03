@@ -76,13 +76,6 @@ Clark financial is a full-stack banking application. Allows the user to create a
 <p align="center">(<a href="#top">back to top</a>)</p>
 <br>
 
-### Deployed App Link
-This app was deployed using Google Cloud. Follow link below
-<br>
-<a href="https://clark-fyo4ifr6hq-uw.a.run.app">Clark financial Link</a>
-<br>
-<p align="center">(<a href="#top">back to top</a>)</p>
-<br>
 
 ## Usage
 #### This app has the functionality to create account, login, deposit, withdraw, see balance, and see useer data. 
